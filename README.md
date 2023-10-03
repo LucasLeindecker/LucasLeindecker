@@ -25,7 +25,7 @@ Vamos construir algo incrível juntos!
 #### Onde me encontrar:
 
 - 📧 E-mail: seuemail@example.com
-- 💼 LinkedIn: [Seu Nome no LinkedIn](https://www.linkedin.com/in/seunome)
-- 🌐 Website: [Seu Website Pessoal](https://www.seusite.com)
+- 💼 LinkedIn: [Lucas Leindecker](https://www.linkedin.com/in/lucas-leindecker-81ab36194/)
+- 🌐 Website: [Site de estudos](https://leindecker.000webhostapp.com/)
 
 Fique à vontade para explorar meus repositórios e projetos aqui no GitHub. Espero que você encontre algo interessante e útil. Vamos codificar!
