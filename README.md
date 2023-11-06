@@ -24,7 +24,7 @@ Vamos construir algo incrível juntos!
 
 #### Onde me encontrar:
 
-- 📧 E-mail: seuemail@example.com
+- 📧 E-mail: lucasleindecker@hotmail.com
 - 💼 LinkedIn: [Lucas Leindecker](https://www.linkedin.com/in/lucas-leindecker-81ab36194/)
 - 🌐 Website: [Site de estudos](https://leindecker.000webhostapp.com/)
 
